@@ -1,0 +1,7 @@
+baseURL = "https://espnet.github.io/icassp2022-tts/"
+languageCode = "en-us"
+title = "ICASSP2022 ESPnet2-TTS"
+theme = "paper"
+
+[markup.goldmark.renderer]
+unsafe= true
