@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>ICASSP2022 ESPnet2-TTS</title>
+    <link>https://espnet.github.io/icassp2022-tts/</link>
+    <description>Recent content on ICASSP2022 ESPnet2-TTS</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language><atom:link href="https://espnet.github.io/icassp2022-tts/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title></title>
+      <link>https://espnet.github.io/icassp2022-tts/</link>
+      <pubDate>Sun, 10 Oct 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://espnet.github.io/icassp2022-tts/</guid>
+      <description>ESPnet2-TTS: Extending the Edge of TTS Research Submitted to ICASSP 2022
+Authors  Tomoki Hayashi (Human Dataware Lab. Co., Ltd. / Nagoya University) Ryuichi Yamamoto (LINE Corp.) Takenori Yoshimura (Nagoya Institute of Technology) Peter Wu (Carnegie Mellon University) Jiatong Shi (Carnegie Mellon University) Takaaki Saeki (The University of Tokyo) Yooncheol Ju (AIRS Company, Hyundai Motor Group) Yusuke Yasuda (Nagoya University) Shinnosuke Takamichi (The University of Tokyo) Shinji Watanabe (Carnegie Mellon University)  Abstract This paper describes ESPnet2-TTS, an end-to-end text-to-speech (E2E-TTS) toolkit.</description>
+    </item>
+    
+  </channel>
+</rss>
