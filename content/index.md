@@ -1,11 +1,13 @@
 ---
-date: 2021-10-10T00:00:00+00:00
+date: 2021-10-20T00:00:00+00:00
 type: "index"
 ---
 
 # ESPnet2-TTS: Extending the Edge of TTS Research
 
-Submitted to ICASSP 2022
+https://arxiv.org/abs/2110.07840
+
+Submitted to [ICASSP2022](https://2022.ieeeicassp.org/).
 
 ## Authors
 
@@ -30,7 +32,9 @@ The toolkit is available online at https://github.com/espnet/espnet.
 
 ## Demo
 
-You can try real-time demo in [Google colab](https://colab.research.google.com/github/espnet/notebook/blob/master/espnet2_tts_realtime_demo.ipynb).
+You can try real-time demos online:
+- [Google colab](https://colab.research.google.com/github/espnet/notebook/blob/master/espnet2_tts_realtime_demo.ipynb)
+- [HuggingFace space with Gradio](https://huggingface.co/spaces/akhaliq/ESPnet2-TTS)
 
 ## Example of LJSpeech (English single speaker)
 
